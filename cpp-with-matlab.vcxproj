@@ -22,6 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{4391EB5C-E481-4CF5-B42C-C46D4D330924}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
+    <ProjectName>cpp-with-matlab</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
