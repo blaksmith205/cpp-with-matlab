@@ -13,7 +13,7 @@ This information was obtained from [this helpful post.](https://www.mathworks.co
     * Example response `C:\Program Files\MATLAB\R2020a`  
 ![](readme_extras/matlabroot.png)  
 2. Add MATLAB_ROOT to the environment variables with the path obtained from the above Matlab command. Look at [Setting up Environment Variables](#heading-4 "Goto Environment Variable setup") for more help
-3. Clone this repository using `git clone https://github.com/blaksmith205/graphical-rlc.git` in the git bash terminal
+3. Clone this repository using `git clone https://github.com/blaksmith205/cpp-with-matlab.git` in the git bash terminal
 4. Open up the cloned .sln file with Visual Studio
 5. Change the release version to x64
 5. Right click graphical-rlc project in solution explorer then select 'properties'
