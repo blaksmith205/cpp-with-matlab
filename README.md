@@ -16,7 +16,7 @@ This information was obtained from [this helpful post.](https://www.mathworks.co
 3. Clone this repository using `git clone https://github.com/blaksmith205/cpp-with-matlab.git` in the git bash terminal
 4. Open up the cloned .sln file with Visual Studio
 5. Change the release version to x64
-5. Right click graphical-rlc project in solution explorer then select 'properties'
+5. Right click cpp-with-matlab project in solution explorer then select 'properties'
 6. Under the 'Debugging' tab, enter `PATH=%(MATLAB_ROOT)\extern\bin\win64;%PATH%` into the 'Environment' field
 7. Open test_env.cpp and add a breakpoint to line 34
 8. If everything was setup correctly, when you run the local windows debugger, you should get an output like this in the command prompt:  
